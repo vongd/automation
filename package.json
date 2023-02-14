@@ -16,6 +16,10 @@
   },
   "homepage": "https://github.com/vongd/automation#readme",
   "devDependencies": {
-    "@playwright/test": "^1.30.0"
+    "@playwright/test": "^1.30.0",
+    "@types/node": "^18.13.0"
+  },
+  "dependencies": {
+    "node": "^19.6.0"
   }
 }
